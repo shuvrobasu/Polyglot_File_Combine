@@ -1,4 +1,4 @@
-# Polyglot Combiner
+# Polyglot File Combiner
 
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/d1e05b97-621c-4079-b84b-027c2c8c3fe2" />
 
