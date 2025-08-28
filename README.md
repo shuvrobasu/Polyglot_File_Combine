@@ -72,10 +72,9 @@ This application is built with Python's standard Tkinter library, but requires a
 
 3.  **Run the script:**
     ```bash
-    python your_script_name.py
+    python polyglot_file_combiner.py
     ```
-    *(Replace `your_script_name.py` with the actual name of the Python file).*
-
+    
 ---
 
 ## Usage
